@@ -1,4 +1,7 @@
 Flaskmarks
+
+copy for dgleba
+
 ===============
 My simple (and self educational) [Flask](http://flask.pocoo.org/) & [SQLAlchemy](http://www.sqlalchemy.org/) based bookmark and RSS feed app.
 
